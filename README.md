@@ -137,9 +137,7 @@ The booking form validates the following fields:
 - **Event Type** — Wedding / Corporate Event / Birthday Party / Brand Promotion / Surprise Event / Other
 - **Event Date** — Required date picker
 - **Message** — Optional additional details
-
----
-
+  
 ---
 
 > Made with ✨ by [Ackshaya R](https://github.com/Ackshaya-R)
